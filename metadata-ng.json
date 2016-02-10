@@ -6,10 +6,10 @@
    "description":"Platform that allows users to build, integrate and deploy web and mobile applications.",
    "type":"web",
    "version":"1.0",
-   "smallIcon":"mx-logo-ibm-24x24.png",
-   "icon":"mx-logo-ibm-32x32.png",
-   "largeIcon":"mx-logo-ibm-50x50.png",
-   "featuredIcon":"mx-logo-ibm-64x64.png",
+   "smallIcon":"mdxIcon.png",
+   "icon":"mdxIcon.png",
+   "largeIcon":"mdxIcon.png",
+   "featuredIcon":"mdxIcon.png",
    "executableFile": "mendixRuntime.war",
    "system_tags":[
       "ibm_community"
