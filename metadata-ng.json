@@ -1,7 +1,10 @@
 {
    "name":"Mendix",
    "services":[
-   	
+        {
+        	"name": "hide",
+		"plan": "starter"
+        }
    ],
    "defaultMemory":512,
    "description":"Platform that allows users to build, integrate and deploy web and mobile applications.",
