@@ -6,10 +6,10 @@
    "description":"Platform that allows users to build, integrate and deploy web and mobile applications.",
    "type":"web",
    "version":"1.0",
-   "smallIcon":"mdxIcon.png",
-   "icon":"mdxIcon.png",
-   "largeIcon":"mdxIcon.png",
-   "featuredIcon":"mdxIcon.png",
+   "smallIcon":"mx-logo-ibm-24x24.png",
+   "icon":"mx-logo-ibm-32x32.png",
+   "largeIcon":"mx-logo-ibm-50x50.png",
+   "featuredIcon":"mx-logo-ibm-64x64.png",
    "executableFile": "mendixRuntime.war",
    "system_tags":[
       "ibm_community"
@@ -26,9 +26,5 @@
    "metadata" : {
 		"termsUrl" : "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
 	},
-   "envVars":{
-      "ADMIN_PASSWORD":"passw0rd",
-      "DEVELOPMENT_MODE":"true"
-   },
    "buildpack":"java_buildpack"
 }
